@@ -1,4 +1,4 @@
 import { defineConfig } from 'vite';
 export default defineConfig({
-    base: '/mggzmn.github.io/',
+    base: '/JavaScript_Moderno_Udemy_todo/',
 })
